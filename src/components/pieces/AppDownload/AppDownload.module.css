@@ -1,0 +1,59 @@
+.appDownload_container{
+    background-color:  #000000;   
+}
+
+.appDownload_content{
+    background-color: #000000 ;
+    opacity: 1;
+    direction: column;
+    flex-direction:column;
+    justify-content: center;
+    margin-top: 10%;
+   
+}
+
+.appDownload_title{
+    margin-left: 25%;
+    text-align: left;
+    font: normal normal 300 54px/63px Roboto;
+    letter-spacing: -0.87px;
+    color: #FAFAFA;
+    opacity: 1;
+}
+
+.appDownload_text{
+    margin-left: 25%;
+    text-align: left;
+    font: normal normal normal 24px/38px Roboto;
+    letter-spacing: 0.17px;
+    color: #888D91;
+    opacity: 1;
+}
+
+.appDownload_image_container{
+    text-align: start;
+    margin-left: 25%;
+}
+
+.appDownload_apple{
+    width:30%;
+    height:30%;
+}
+
+.appDownload_google{
+    width:30%;
+    height:30%;
+}
+
+.appDownload_appImage{
+    /* max-width:50vw; */
+    opacity: 1;
+    /* background: url('../../../assets/images/DownloadGroup1.png') no-repeat center fixed;    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: center;
+    background-attachment: fixed; */
+}
+

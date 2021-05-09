@@ -1,0 +1,46 @@
+.landing_container{
+  
+    /* background: url('../../../assets/images/Pixelbook@2x.png') no-repeat;
+    background-size: cover;  */
+    /* width: 100%; */
+     /* height:32em;    */
+}
+.background_img{
+    height:40rem;
+    width: 100vw;
+
+}
+.background_text{
+    height:40rem;
+    
+}
+
+.landing_title{
+    margin-top: 4rem;
+    margin-left: 5%;
+    text-align: left;
+    font: normal normal normal 2rem/1.6 Roboto;
+    letter-spacing: -0.87px;
+    color: #40484F;
+    opacity: 1;
+}
+
+.landing_text{
+    margin-top: 4rem;
+    margin-left: 5%;
+    text-align: left;
+    font: normal normal normal 1.2rem/1.6 Roboto;
+    letter-spacing: 0.17px;
+    color: #888D91;
+    opacity: 1;
+}
+
+.landing_link{
+    margin-top: 4rem;
+    margin-left: 5%;
+    text-align: left;
+    font: normal normal normal 1rem/1.6 Roboto;
+    letter-spacing: 0.17px;
+    color: #D83345;
+    opacity: 1;
+}

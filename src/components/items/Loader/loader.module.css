@@ -1,0 +1,14 @@
+.container {
+  background-color: #e7e7e7;
+  border: 1px solid #d4d4d4;
+  width: 100%;
+  padding: 4rem 0px;
+  display: block;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.text {
+  font-family: inherit;
+  padding-top: 0.6rem;
+}
